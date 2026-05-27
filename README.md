@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmarDahiwalkar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amardahiwalkar007@gmail.com)
 
-☁️ AWS DevOps Engineer | 🔧 CI/CD Automation | 🏗️ Infrastructure as Code | 🐳 Containers & Orchestration
+☁️ AWS DevOps Engineer with 4 years of experience automating cloud infrastructure, building CI/CD pipelines, and shipping reliable deployments. Terraform • Docker • Kubernetes • Jenkins | AWS Certified Solutions Architect 🏅 | Pune 🇮🇳
 
 ---
 
@@ -60,18 +60,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmarDahiwalkar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarDahiwalkar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmarDahiwalkar&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
 
 ## 📌 Featured Projects
 
@@ -100,7 +89,7 @@
 
 ## 🏅 Certifications
 
-![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[![AWS Certified Solutions Architect](https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/earner/earned/badge/c58a3b95-aaba-44e2-82d2-09f403f3d378)
 
 ✅ **AWS Certified Solutions Architect – Associate (SAA-C03)** — Valid till 2029
 
